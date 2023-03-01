@@ -1,0 +1,27 @@
+Nome arquivo Java: .java
+Ter JDK e JRE no computador.
+Arquivo: .class
+
+Pré-requisitos:
+- JDK instalado
+- IDE da escolha
+- Diretório do projeto definido (github)
+
+Anatomia da classe
+
+Ver links: https://glysns.gitbook.io/java-basico/
+
+https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
+
+Sintaxe de declaração de uma nova classe:
+
+public class MinhaClasse {
+
+ // SEU CÓDIGO AQUI
+
+public static void main (String [] args)
+	 System.out.print ("Olá turma, sejam bem-vidos");
+}
+
+}
+

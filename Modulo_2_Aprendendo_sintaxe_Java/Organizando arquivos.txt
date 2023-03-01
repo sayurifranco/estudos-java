@@ -1,0 +1,19 @@
+1 comercial (com)
+2 organizacional (org)
+3 opensource (ops)
+
+
+1 HyperTech
+2
+3 com.hypertech.notification
+4 com.hypertech.notification.util
+5 com.hypertech.notification.model
+6 com.hypertech.notification.service (regras de negócio)
+
+
+1 Lucas
+2
+3 edu.lucas.tema.controlefluxo
+4 edu.lucas.tema.logicaprog
+5 edu.lucas.primeirasemana
+6 edu.lucas.segundasemana
